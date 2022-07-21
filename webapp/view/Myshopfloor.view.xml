@@ -1,0 +1,7 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="myapp1.controller.Myshopfloor" displayBlock="true">
+    <Page id="page" title="Sample ShopFloor App">   
+        <content>   
+            <Text xmlns="sap.m" id="text0" text="Welcome to Sample ShopFloor app!!! You can test sample chatbot below and happy testing!!!" textAlign="Center" width="100%"/>   
+        </content>
+    </Page>
+</mvc:View>
